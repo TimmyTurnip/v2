@@ -186,11 +186,12 @@ hr {
   text-align: left;
 }
 
-.skill-2-title {
-  text-align: right;
+.skill-1-desc {
+  font-size: 1rem;
 }
 
 .skill-2-desc {
+  font-size: 1rem;
   text-align: right;
 }
 /********************************* ID Selectors *******************************/
